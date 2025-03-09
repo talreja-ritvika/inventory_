@@ -1,2 +1,1 @@
 # inventory_
-inventory
